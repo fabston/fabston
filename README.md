@@ -19,3 +19,4 @@
 #### 📬 How to reach me
 - Email: [hi@fabston.dev](mailto:hi@fabston.dev) ([PGP Key](https://raw.githubusercontent.com/fabston/fabston/main/pgp.asc))
 - Telegram: [@fabston](https://t.me/fabston)
+- Matrix: [@fabston:matrix.org](element:fabston:matrix.org)
