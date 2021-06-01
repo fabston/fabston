@@ -11,4 +11,4 @@
 {{- end}}
 
 #### 📬 How to reach me
-- Email: [hi@fabston.dev](mailto:hi@fabston.dev) ([PGP Key](https://raw.githubusercontent.com/fabston/fabston/main/pgp.asc))
+- Email: [hi@fabston.dev](mailto:hi@fabston.dev)
