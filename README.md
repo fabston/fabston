@@ -16,4 +16,4 @@
 - [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email. 
 
 #### 📬 How to reach me
-- Email: [hi@fabston.dev](mailto:hi@fabston.dev) ([PGP Key](https://raw.githubusercontent.com/fabston/fabston/main/pgp.asc))
+- Email: [hi@fabston.dev](mailto:hi@fabston.dev)
