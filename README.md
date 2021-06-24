@@ -2,9 +2,9 @@
 
 #### 👷 I'm currently working on
 
-- [fabston/Discord-Airdrop-Bot](https://github.com/fabston/Discord-Airdrop-Bot) - 💰 Manage your Discord Airdrops on ERC-20, BEP-20 etc. tokens. (today)
-- [fabston/Telegram-Airdrop-Bot](https://github.com/fabston/Telegram-Airdrop-Bot) - 💰 Manage your Telegram Airdrops on ERC-20, BEP-20 etc. tokens. (1 day ago)
-- [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.  (1 day ago)
+- [fabston/Discord-Airdrop-Bot](https://github.com/fabston/Discord-Airdrop-Bot) - 💰 Manage your Discord Airdrops on ERC-20, BEP-20 etc. tokens. (1 day ago)
+- [fabston/Telegram-Airdrop-Bot](https://github.com/fabston/Telegram-Airdrop-Bot) - 💰 Manage your Telegram Airdrops on ERC-20, BEP-20 etc. tokens. (2 days ago)
+- [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.  (2 days ago)
 - [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram. (1 week ago)
 - [fabston/Hugo-Theme-Priam](https://github.com/fabston/Hugo-Theme-Priam) - ⚡️ A fast, clean, responsive Hugo theme. (1 month ago)
 
