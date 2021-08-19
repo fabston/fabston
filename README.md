@@ -2,8 +2,8 @@
 
 #### 👷 I'm currently working on
 
-- [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.  (5 days ago)
-- [fabston/Telegram-Airdrop-Bot](https://github.com/fabston/Telegram-Airdrop-Bot) - 💰 Manage your Telegram Airdrops on ERC-20, BEP-20 etc. tokens. (1 week ago)
+- [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.  (6 days ago)
+- [fabston/Telegram-Airdrop-Bot](https://github.com/fabston/Telegram-Airdrop-Bot) - 💰 Manage your Telegram Airdrops on ERC-20, BEP-20 etc. tokens. (2 weeks ago)
 - [fabston/little-snitch-blocklist](https://github.com/fabston/little-snitch-blocklist) - 🛡 Little Snitch Malicious URL Blocklist. (1 month ago)
 - [fabston/Discord-Airdrop-Bot](https://github.com/fabston/Discord-Airdrop-Bot) - 💰 Manage your Discord Airdrops on ERC-20, BEP-20 etc. tokens. (1 month ago)
 - [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram. (2 months ago)
